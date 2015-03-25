@@ -1,0 +1,2 @@
+module MagicActivities
+end
